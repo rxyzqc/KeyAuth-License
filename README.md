@@ -1,2 +1,2 @@
 # License authentication system with KeyAuth.win api
-![keyauth win](https://user-images.githubusercontent.com/120246386/236444210-9b804770-5bfe-481b-bdbb-d710c82c6d3f.png)
+![th-1744070098](https://user-images.githubusercontent.com/120246386/236444577-5d104294-9665-4684-a508-ca4f62a631b2.jpg)
