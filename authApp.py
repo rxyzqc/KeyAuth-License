@@ -3,7 +3,7 @@ import hashlib
 import sys, os
 import time
 
-creator = "User"
+creator = "rxyzqc"
 
 
 def clear():
@@ -51,3 +51,4 @@ def auth():
 
 
 auth()
+input("Press any key to continue . . . ")
